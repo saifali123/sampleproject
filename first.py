@@ -1,2 +1,2 @@
 import os
-print "hello"
+print('Hello, world!')
